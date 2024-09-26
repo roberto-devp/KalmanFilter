@@ -28,6 +28,7 @@ with format:
 
 Adjusting accuracy:
 ----------
+----------
 
 Adjust:
 ```bash
